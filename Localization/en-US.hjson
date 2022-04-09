@@ -1,0 +1,26 @@
+Mods: {
+	TransparentLiquid: {
+		Config: {
+			Title: Liquids Opacity Configuration
+			Header:
+				'''
+				This mod is inspired by the texture pack of the same name, Transparent Liquids.
+				Please note that I am not the author of the texture pack.
+				Currently (as of 2022/4/9) it is recommended to use the tModLoader from the preview branch.
+				Because the tModLoader of the current stable branch has a serious bug in the water lighting.
+				Please note that this has nothing to do with this mod.
+				'''
+			WaterOpacity: Water Opacity
+			LavaOpacity: Lava Opacity
+			HoneyOpacity: Honey Opacity
+			LightingFix: {
+				Label: Lighting Bug Fix
+				Tooltip:
+					'''
+					Fixes the lighting bug in vanilla with transparent liquids.
+					Dive deep into the ocean, turn it off, and you'll see what I mean.
+					'''
+			}
+		}
+	}
+}
