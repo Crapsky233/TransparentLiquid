@@ -11,9 +11,9 @@ Mods: {
 				Because the tModLoader of the current stable branch has a serious bug in the water lighting.
 				Please note that this has nothing to do with this mod.
 				'''
-			WaterOpacity: [i:2169] Water Opacity
-			LavaOpacity: [i:2170] Lava Opacity
-			HoneyOpacity: [i:2788] Honey Opacity
+			WaterOpacity: "[i:2169] Water Opacity"
+			LavaOpacity: "[i:2170] Lava Opacity"
+			HoneyOpacity: "[i:2788] Honey Opacity"
 			LightingFix: {
 				Label: Lighting Bug Fix
 				Tooltip:
