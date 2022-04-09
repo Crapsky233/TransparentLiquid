@@ -6,6 +6,7 @@ Mods: {
 				'''
 				This mod is inspired by the texture pack of the same name, Transparent Liquids.
 				Please note that I am not the author of the texture pack.
+				Effects are only available for White and Color lighting modes
 				Currently (as of 2022/4/9) it is recommended to use the tModLoader from the preview branch.
 				Because the tModLoader of the current stable branch has a serious bug in the water lighting.
 				Please note that this has nothing to do with this mod.

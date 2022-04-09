@@ -5,6 +5,7 @@
 			Header:
 				'''
 				本Mod受同名材质包Transparent Liquids的启发，请注意我不是材质包作者.
+				效果仅适用于“白”与“颜色”光照模式
 				目前(截至2022/4/9)建议使用preview测试版分支的tModLoader.
 				因为当前stable分支的tModLoader在水的光照中出现了严重Bug.
 				请注意这和本Mod无关.

@@ -1,4 +1,5 @@
 displayName = TransparentLiquid
 author = -Cyril-
-version = 0.1
+version = 1.0
 side = Client
+homepage = https://github.com/Crapsky233/TransparentLiquid
