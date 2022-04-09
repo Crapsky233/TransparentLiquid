@@ -1,11 +1,10 @@
-﻿using Mono.Cecil.Cil;
+﻿using Microsoft.Xna.Framework;
+using Mono.Cecil.Cil;
 using MonoMod.Cil;
 using System;
 using Terraria;
-using Terraria.GameContent.Liquid;
 using Terraria.ID;
 using Terraria.ModLoader;
-using Microsoft.Xna.Framework;
 
 namespace TransparentLiquid
 {
