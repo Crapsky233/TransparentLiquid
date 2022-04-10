@@ -1,0 +1,7 @@
+Config.Title=Liquids Opacity Configuration
+Config.Header=This mod is inspired by the texture pack of the same name, Transparent Liquids.\nPlease note that I am not the author of the texture pack.\nEffects are only available for White and Color lighting modes.
+Config.WaterOpacity=[i:2169] Water Opacity
+Config.LavaOpacity=[i:2170] Lava Opacity
+Config.HoneyOpacity=[i:2788] Honey Opacity
+Config.LightingFix.Label=Lighting Bug Fix
+Config.LightingFix.Tooltip=Fixes the lighting bug in vanilla with transparent liquids.\nDive deep into the ocean, turn it off, and you'll see what I mean.

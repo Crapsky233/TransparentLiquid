@@ -7,7 +7,7 @@ namespace TransparentLiquid
     public class Configuration : ModConfig
     {
         public override ConfigScope Mode => ConfigScope.ClientSide;
-        public override void OnLoaded() => LiquidRenderSystem.Config = this;
+        public override void OnLoaded() => TransparentLiquid.Config = this;
 
         [Header("$Mods.TransparentLiquid.Config.Header")]
 

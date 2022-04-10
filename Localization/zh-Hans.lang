@@ -1,0 +1,7 @@
+﻿Config.Title=液体透明度配置面板
+Config.Header=本Mod受同名材质包Transparent Liquids的启发，请注意我不是材质包作者.\n效果仅适用于“白”与“颜色”光照模式.
+Config.WaterOpacity=[i:2169] 水透明度
+Config.LavaOpacity=[i:2170] 熔岩透明度
+Config.HoneyOpacity=[i:2788] 蜂蜜透明度
+Config.LightingFix.Label=修复光照错误
+Config.LightingFix.Tooltip=修复透明液体中在原版会出现的光照错误.\n如果关掉这项并潜入深海，你就会知道这是什么意思了.

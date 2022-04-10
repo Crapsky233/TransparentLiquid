@@ -5,20 +5,11 @@ Effects are only available for White and Color lighting modes.
 You can adjust the transparency of water, lava, honey in the mod configuration.
 The mod is client-side only. Which means you can use it in the server even if the server doesn't enable this mod.
 
-Please note that I am not the author of the Transparent Liquids texture pack.
-Currently (as of 2022/4/9) it is recommended to use the tModLoader from the preview branch.
-Because the tModLoader of the current stable branch has a serious bug in the water lighting.
-Please note that this has nothing to do with this mod.
-
 本Mod受同名材质包Transparent Liquids的启发，请注意我不是材质包作者.
 这个Mod会使所有液体透明. 但是使用IL代码，而不是直接替换贴图.
 它还修复了原版透明液体中会发生的照明错误.
 效果仅适用于“白”与“颜色”光照模式.
 你可以在配置面板调节水、熔岩、蜂蜜的透明度.
 该Mod为客户端模组. 这意味着即使服务器未启用此Mod，你也可以在服务器中使用它。
-
-目前(截至2022/4/9)建议使用preview测试版分支的tModLoader.
-因为当前stable分支的tModLoader在水的光照中出现了严重Bug.
-请注意这和本Mod无关.
 
 Github: https://github.com/Crapsky233/TransparentLiquid
