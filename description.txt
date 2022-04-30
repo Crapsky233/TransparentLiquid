@@ -22,3 +22,6 @@ Please note that this has nothing to do with this mod.
 请注意这和本Mod无关.
 
 Github: https://github.com/Crapsky233/TransparentLiquid
+
+- 1.1
+Changed mod icon.
