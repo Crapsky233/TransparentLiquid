@@ -13,3 +13,6 @@ The mod is client-side only. Which means you can use it in the server even if th
 该Mod为客户端模组. 这意味着即使服务器未启用此Mod，你也可以在服务器中使用它。
 
 Github: https://github.com/Crapsky233/TransparentLiquid
+
+- 1.1
+Changed mod icon.
